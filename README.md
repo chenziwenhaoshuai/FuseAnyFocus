@@ -1,5 +1,5 @@
 
-# FAF: Focus-Aware Fusion Network 📸✨
+# Fuse Any Focus 📸✨
 
 Welcome to the **FAF (Fuse Any Focus)** project! This repository contains the code and model for **multi-focus image fusion (MFIF)**, where our goal is to synthesize a sharp, all-in-focus image from multiple source images with varying focal depths. With the **FAF model** and the newly developed **FAF-1M dataset**, we tackle two critical challenges in MFIF: the scarcity of training data and the **synthetic-to-real domain gap**. 📷🌐
 
@@ -52,8 +52,8 @@ To help you get started quickly, we provide both **pretrained** and **fine-tuned
 - **Fine-tuned Weights**: These weights were further fine-tuned on FAF-Real-2k real-world data to bridge the synthetic-to-real domain gap.
 
 ### Download Links:
-- [Download FAF-Pretrained Weights]
-- [Download FAF-Fine-tuned Weights]
+- [Download FAF-Pretrained Weights](Anonymous)
+- [Download FAF-Fine-tuned Weights](Anonymous)
 
 
 ## Training the Model 🏋️‍♀️
