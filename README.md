@@ -98,7 +98,7 @@ We welcome contributions! If you find a bug, have an idea for improvement, or wa
 
 ## 💬 Contact
 
-If you have any questions or need help, don't hesitate to reach out. You can contact us via the GitHub issues page or email at [your-email@example.com]. ✉️
+If you have any questions or need help, don't hesitate to reach out. You can contact us via the GitHub issues page or email at [Anonymous@Anonymous.com]. ✉️
 
 ---
 
