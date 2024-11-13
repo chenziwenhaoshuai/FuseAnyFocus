@@ -108,7 +108,7 @@ If you use this repository in your research, please cite the following paper:
 
 ```
 @article{faftest,
-  author = {xxx},
+  author = {XXX},
   title = {Fuse Any Focus: Multi-focus Image Fusion via Focal Plane Segmentation},
   journal = {xx},
   year = {2024},
