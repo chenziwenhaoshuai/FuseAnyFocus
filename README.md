@@ -42,7 +42,7 @@ pip install -r requirements.txt
 **FAF-1M** is the largest **Multi-Focus Image Fusion (MFIF)** dataset, containing over **1,000,000 synthetic** and **2,000 real-world** multi-focus image pairs with ground truth. It was created to address the challenges of limited training data and the synthetic-to-real domain gap in MFIF. The dataset includes diverse scenes generated via optical simulation and captured using the proprietary **FAF data engine**, making it ideal for training and evaluating fusion models.
 
 ### Download the FAF-1M Dataset:
-[Download FAF-1M Dataset]
+[Download FAF-1M Dataset with OpenX-Lab](https://openxlab.org.cn/datasets/chenziwenhaoshuai/FAF-1M)
 
 ## ⚡ Pretrained & Fine-tuned Weights
 
